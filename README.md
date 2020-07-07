@@ -1,1 +1,4 @@
-# LearnQuran-React-Native-App
+# LearnQuran
+Find a local quran teacher near you.
+
+# React Native App
